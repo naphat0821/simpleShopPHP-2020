@@ -1,0 +1,8 @@
+nbproject/
+server.php
+
+upload_image/
+
+*.png
+*.jpg
+*.jpeg
